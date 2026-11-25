@@ -1,0 +1,1 @@
+{"description":"One Day, One Image — 24 November 2026: 50 date-checked world-news stories in one 1024x1024 image.","engines":{"node":">=22"},"name":"news-image-20261124","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
